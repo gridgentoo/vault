@@ -1,3 +1,7 @@
+How to Set Up Hashicorp Vault Secrets Server in AWS.  
+https://medium.com/tulcolabs/setting-up-hashicorp-vault-with-aws-5468074d87c3
+
+
 # Vault [![CircleCI](https://circleci.com/gh/hashicorp/vault.svg?style=svg)](https://circleci.com/gh/hashicorp/vault) [![vault enterprise](https://img.shields.io/badge/vault-enterprise-yellow.svg?colorB=7c8797&colorA=000000)](https://www.hashicorp.com/products/vault/?utm_source=github&utm_medium=banner&utm_campaign=github-vault-enterprise)
 
 ----

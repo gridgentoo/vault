@@ -1,5 +1,11 @@
+Deploy HCP Vault & AWS Transit Gateways via Terraform   
+https://medium.com/hashicorp-engineering/deploying-hcp-vault-using-the-hcp-terraform-provider-5e2f13bcf9f4
+
 Dynamic AWS Credentials in GitLab Pipelines with Hashicorp Vault   
 https://medium.com/@jackalus/dynamic-aws-credentials-in-gitlab-pipelines-e7d931f41ac6
+
+Hashicorp Vault for secret management in Kubernetes Cluster   
+https://medium.com/geekculture/hashicorp-vault-for-secret-management-in-kubernetes-cluster-de0cfe2fd8df  
 
 
 How to Set Up Hashicorp Vault Secrets Server in AWS.  

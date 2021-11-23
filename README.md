@@ -15,6 +15,9 @@ https://medium.com/tulcolabs/setting-up-hashicorp-vault-with-aws-5468074d87c3
 HashiCorp Vault AWS Secrets Engine.  
 https://marco-urrea.medium.com/hashicorp-vault-aws-secrets-engine-3297bf3ffbd4 
 
+How I Manage Credentials in Python Using AWS Secrets Manager   
+https://towardsdatascience.com/how-i-manage-credentials-in-python-using-aws-secrets-manager-1bd1bf5da598
+
 
 # Vault [![CircleCI](https://circleci.com/gh/hashicorp/vault.svg?style=svg)](https://circleci.com/gh/hashicorp/vault) [![vault enterprise](https://img.shields.io/badge/vault-enterprise-yellow.svg?colorB=7c8797&colorA=000000)](https://www.hashicorp.com/products/vault/?utm_source=github&utm_medium=banner&utm_campaign=github-vault-enterprise)
 
